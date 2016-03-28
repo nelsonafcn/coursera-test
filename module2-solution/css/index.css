@@ -11,7 +11,7 @@ h1{
 	width: 100%;
 }
 section{
-	background-color: #ffff00;
+	background-color: gray;
 	margin-bottom: 20px;
 
 }
@@ -23,7 +23,7 @@ section{
 	background-color: #ff0000;
 }
 #title3{
-	background-color: gray;
+	background-color: #ffff00;
 }
 
 @media(min-width: 992px){
